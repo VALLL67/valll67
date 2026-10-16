@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bonjour, je suis Valentin 👋
 
-<!--
-**VALLL67/valll67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis apprenti en ingénierie des systèmes d'information. Depuis 2022, je partage mon temps entre l'école **IRIS** à Strasbourg et l'entreprise **SEW USOCOME** à Haguenau. Je prépare actuellement un Mastère Expert en ingénierie des systèmes d'information, que je termine en septembre 2027.
 
-Here are some ideas to get you started:
+### 🛠️ Mes outils
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Automatisation** : PowerShell, Python, n8n, Terraform
+**Infrastructure** : Windows Server, Linux, Proxmox, Docker
+**Supervision** : Grafana, Zabbix
+
+### 🏁 En dehors de l'informatique
+
+Passionné d'automobile et d'horlogerie, je passe mon temps libre entre la musculation et la course à pied.
+
+### 📫 Me retrouver
+
+🌐 [valcloud.fr](https://valcloud.fr/) · 💼 [LinkedIn](https://www.linkedin.com/in/valentin-stoll) · ✉️ contact@valcloud.fr
