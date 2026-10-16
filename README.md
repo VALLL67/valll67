@@ -5,7 +5,9 @@ Je suis apprenti en ingénierie des systèmes d'information. Depuis 2022, je par
 ### 🛠️ Mes outils
 
 **Automatisation** : PowerShell, Python, n8n, Terraform
+
 **Infrastructure** : Windows Server, Linux, Proxmox, Docker
+
 **Supervision** : Grafana, Zabbix
 
 ### 🏁 En dehors de l'informatique
